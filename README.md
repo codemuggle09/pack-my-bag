@@ -67,5 +67,10 @@ Pack My Bag is a smart travel checklist generator that creates personalized pack
 - localStorage (for quick local save)
 - Firebase or Supabase (for sync between devices)
 
-## Sample Output
+##  Live Demo
 
+Check out the deployed project here:  
+[https://pack-my-bag-ten.vercel.app/](https://pack-my-bag-ten.vercel.app/)
+
+
+This project is a **work in progress** and will be continuously improved for better **performance, UI/UX, and efficiency**.
