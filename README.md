@@ -1,6 +1,7 @@
 # Pack My Bag – Smart Travel List Generator
 
 Pack My Bag is a smart travel checklist generator that creates personalized packing lists based on your destination, travel dates, weather, and trip type. Whether you're heading to the beach, a business trip, or an adventure trek, this app helps ensure you never forget anything important.
+Additionally you can add things to the list too :)
 
 ## Features
 
